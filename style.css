@@ -1,125 +1,84 @@
 body {
+  font-size: 10pt;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: black;
+  line-height: 10pt;
+  padding-left: 10pt;
+  padding-right: 10pt;
+  padding-top: 5pt;
+}
 
-    font-size: 10pt;
-  
-    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  
-    color: black;
-  
-    line-height: 14pt;
-  
-    padding-left: 5pt;
-  
-    padding-right: 5pt;
-  
-    padding-top: 5pt;
-  
-  }
-  
-  p {
-    margin-top: 10px 10px 150px 80px;
-  }
+p {
+  margin-top: 20px 10px 150px 80px;
+}
 
-  h1 {
-  
-    font: 18pt Verdana, Geneva, Arial, Helvetica, sans-serif;
-  
-    font-weight: bold;
-  
-    line-height: 20pt;
+h1 {
+  font: 22pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 20pt;
+  font-style: oblique;
+  color: green;
+}
 
-    color: green;
-  
-  }
-  
-  h4 {
-  
-    font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif;
-  
-  }
+h3 {
+  font: 14pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  line-height: 10pt;
+  float: right;
+}
 
-  .intro {
-    font: 14pt Verdana, Geneva, Arial, Helvetica, sans-serif;
-  
-    font-weight: bold;
-  
-    line-height: 20pt;
+h4 {
+  font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
 
-    color: goldenrod; 
-  }
-  
-  p.subheader {
-  
-    font-weight: bold;
-  
-    color: #593d87;
-  
-  }
-  
-  
-  img {
-  
-    padding: 3pt;
-  
-    float: initial;
+.intro {
+  font: 14pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 20pt;
+  color: goldenrod;
+}
 
-    display: inline-block;
-    margin-left: 100px;
-    margin-right: auto;
-  
-  }
+img {
+  padding: 3pt;
+  float: initial;
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+}
 
+ul {
+  margin: 5px;
+  padding: 50px 30px 30px 30px;
+  display: block;
+}
 
-  ul {
-    
-    margin: 10px;
-    padding: 50px;
-  }
-  
-  #country {
-    font: 16pt Verdana, Geneva, Arial, Helvetica, sans-serif;
-  
-    font-weight: bold;
-  
-    line-height: 20pt;
+#country {
+  font: 16pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
 
-    color: blue; 
+#header-links {
+  font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 100pt;
+}
 
-  }
+a {
+  text-decoration: none;
+}
 
+a:link, a:visited {
+  color: #8094d6;
+}
 
-  a {
-  
-    text-decoration: none;
-  
-  }
-  
-  
-  a:link, a:visited {
-  
-    color: #8094d6;
-  
-  }
-  
-  
-  a:hover, a:active {
-  
-    color: #FF9933;
-  
-  }
-  
-  
-  div.footer {
-  
-    font-size: 9pt;
-  
-    font-style: italic;
-  
-    line-height: 12pt;
-  
-    text-align: center;
-  
-    padding-top: 30pt;
-  
-  }
-  
+a:hover, a:active {
+  color: #FF9933;
+}
+
+div.footer {
+  font-size: 9pt;
+  font-style: italic;
+  line-height: 12pt;
+  text-align: center;
+  padding-top: 30pt;
+}
