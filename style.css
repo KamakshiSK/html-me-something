@@ -1,0 +1,125 @@
+body {
+
+    font-size: 10pt;
+  
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  
+    color: black;
+  
+    line-height: 14pt;
+  
+    padding-left: 5pt;
+  
+    padding-right: 5pt;
+  
+    padding-top: 5pt;
+  
+  }
+  
+  p {
+    margin-top: 10px 10px 150px 80px;
+  }
+
+  h1 {
+  
+    font: 18pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  
+    font-weight: bold;
+  
+    line-height: 20pt;
+
+    color: green;
+  
+  }
+  
+  h4 {
+  
+    font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  
+  }
+
+  .intro {
+    font: 14pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  
+    font-weight: bold;
+  
+    line-height: 20pt;
+
+    color: goldenrod; 
+  }
+  
+  p.subheader {
+  
+    font-weight: bold;
+  
+    color: #593d87;
+  
+  }
+  
+  
+  img {
+  
+    padding: 3pt;
+  
+    float: initial;
+
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: auto;
+  
+  }
+
+
+  ul {
+    
+    margin: 10px;
+    padding: 50px;
+  }
+  
+  #country {
+    font: 16pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  
+    font-weight: bold;
+  
+    line-height: 20pt;
+
+    color: blue; 
+
+  }
+
+
+  a {
+  
+    text-decoration: none;
+  
+  }
+  
+  
+  a:link, a:visited {
+  
+    color: #8094d6;
+  
+  }
+  
+  
+  a:hover, a:active {
+  
+    color: #FF9933;
+  
+  }
+  
+  
+  div.footer {
+  
+    font-size: 9pt;
+  
+    font-style: italic;
+  
+    line-height: 12pt;
+  
+    text-align: center;
+  
+    padding-top: 30pt;
+  
+  }
+  
